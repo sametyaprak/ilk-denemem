@@ -6,7 +6,7 @@ public class Git {
 		
 		System.out.println("basladik");
 		System.out.println("ilk duzeltmeyi yaptım");
-		System.out.println("basladik");
+		System.out.println("ikinci duzeltmeyi yapacagım");
 		System.out.println("basladik");
 		System.out.println("basladik");
 		System.out.println("basladik");
